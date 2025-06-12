@@ -191,6 +191,6 @@ This project is available under the MIT License. See the LICENSE file for more i
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
+permaevidence@protonmail.com
 
 Project Link: [https://github.com/permaevidence/LLM-Pigeon-Server](https://github.com/permaevidence/LLM-Pigeon-Server)
